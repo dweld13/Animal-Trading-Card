@@ -1,0 +1,31 @@
+#menu {
+	width: 300px;
+}
+#menu ul, #menu li {
+	margin: 0; padding: 0;
+}
+#menu {
+	padding: 10px;
+	border: 2px solid lightgray;
+	box-shadow: 10px 10px 0px 0px rgba(222,218,222,1);
+}
+.name {
+	margin-bottom: 30px;
+}
+#lower {
+	padding: 10px;
+	border: 2px solid lightgray;
+	margin-top: 20px;
+	padding-top: 1px;
+	padding-bottom: 1px;
+}
+.fact {
+	font-style: italic;
+}
+.list {
+	list-style: none;"
+}
+span {
+	font-weight: bold;
+}
+/* add your CSS here */
